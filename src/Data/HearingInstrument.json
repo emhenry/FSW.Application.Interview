@@ -1,0 +1,602 @@
+﻿[
+  {
+    "Id": 1,
+    "ProductName": "Ambra_SP",
+    "ProductCode": "779515_7754",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 2,
+    "ProductName": "Ambra_UP",
+    "ProductCode": "333696_8940",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 3,
+    "ProductName": "Ambra_R-R",
+    "ProductCode": "835982_8673",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 4,
+    "ProductName": "Ambra_312",
+    "ProductCode": "858135_8416",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 5,
+    "ProductName": "Ambra_70",
+    "ProductCode": "553744_5917",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 6,
+    "ProductName": "Ambra_90",
+    "ProductCode": "293823_9585",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 7,
+    "ProductName": "Ambra_120",
+    "ProductCode": "372352_9610",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 8,
+    "ProductName": "Ambra_312T",
+    "ProductCode": "893215_4373",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 9,
+    "ProductName": "Ambra_70T",
+    "ProductCode": "105661_0833",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 10,
+    "ProductName": "Ambra_90T",
+    "ProductCode": "138109_0206",
+    "ProductFamily": "AMBRA"
+  },
+  {
+    "Id": 11,
+    "ProductName": "Ambra_120T",
+    "ProductCode": "616127_9770",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 12,
+    "ProductName": "Ambra_A_123",
+    "ProductCode": "152957_1596",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 13,
+    "ProductName": "Ambra_B_90",
+    "ProductCode": "764275_5248",
+    "ProductFamily": "Ambra"
+  },
+  {
+    "Id": 14,
+    "ProductName": "PH_C_123",
+    "ProductCode": "893710_6642",
+    "ProductFamily": "Phonak New Development Super Long Family Name"
+  },
+  {
+    "Id": 15,
+    "ProductName": "Audéo P_SP",
+    "ProductCode": "113093_0926",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 16,
+    "ProductName": "Audéo P_UP",
+    "ProductCode": "679711_3211",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 17,
+    "ProductName": "Audéo P_R-R",
+    "ProductCode": "087253_8087",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 18,
+    "ProductName": "Audéo P_70",
+    "ProductCode": "376750_3703",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 19,
+    "ProductName": "Audéo P_90",
+    "ProductCode": "299304_2437",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 20,
+    "ProductName": "Audéo P_120",
+    "ProductCode": "944501_5523",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 21,
+    "ProductName": "Audéo P_70T",
+    "ProductCode": "336715_5664",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 22,
+    "ProductName": "Audéo P_90T",
+    "ProductCode": "453025_4673",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 23,
+    "ProductName": "Audéo P_120T",
+    "ProductCode": "314093_2074",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 24,
+    "ProductName": "Audéo P_RR",
+    "ProductCode": "102949_1311",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 25,
+    "ProductName": "Audéo P_RC",
+    "ProductCode": "146933_7107",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 26,
+    "ProductName": "Audéo P_PR",
+    "ProductCode": "993584_2048",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 27,
+    "ProductName": "Audéo P_PQ",
+    "ProductCode": "998702_2846",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 28,
+    "ProductName": "Audéo P_FP",
+    "ProductCode": "033430_8616",
+    "ProductFamily": "Audéo P"
+  },
+  {
+    "Id": 29,
+    "ProductName": "Audéo M_AS",
+    "ProductCode": "409358_3799",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 30,
+    "ProductName": "Audéo M_I",
+    "ProductCode": "215601_6244",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 31,
+    "ProductName": "Audéo M_123",
+    "ProductCode": "975040_5319",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 32,
+    "ProductName": "Audéo M_KL",
+    "ProductCode": "342413_2623",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 33,
+    "ProductName": "Audéo M_KK",
+    "ProductCode": "003832_4893",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 34,
+    "ProductName": "Audéo M_UI",
+    "ProductCode": "755507_5071",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 35,
+    "ProductName": "Audéo M_FO",
+    "ProductCode": "802478_9128",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 36,
+    "ProductName": "Audéo M_SA",
+    "ProductCode": "665819_8293",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 37,
+    "ProductName": "Audéo M_FF",
+    "ProductCode": "144607_7974",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 38,
+    "ProductName": "Audéo M_UI",
+    "ProductCode": "079695_1150",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 39,
+    "ProductName": "Audéo M_PM",
+    "ProductCode": "352769_0477",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 40,
+    "ProductName": "Audéo M_23",
+    "ProductCode": "622146_2101",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 41,
+    "ProductName": "Audéo M_22",
+    "ProductCode": "326493_9608",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 42,
+    "ProductName": "Audéo M_12",
+    "ProductCode": "666816_1919",
+    "ProductFamily": "Audéo M"
+  },
+  {
+    "Id": 43,
+    "ProductName": "Audéo B_OP",
+    "ProductCode": "437761_9376",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 44,
+    "ProductName": "Audéo B_PR",
+    "ProductCode": "483729_6781",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 45,
+    "ProductName": "Audéo B_PP",
+    "ProductCode": "729034_4550",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 46,
+    "ProductName": "Audéo B_R_R",
+    "ProductCode": "366966_2250",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 47,
+    "ProductName": "Audéo B_SS",
+    "ProductCode": "935346_2501",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 48,
+    "ProductName": "Audéo B_704",
+    "ProductCode": "932191_6182",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 49,
+    "ProductName": "Audéo B_12",
+    "ProductCode": "436307_9817",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 50,
+    "ProductName": "Audéo B_20",
+    "ProductCode": "495994_6262",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 51,
+    "ProductName": "Audéo B_40",
+    "ProductCode": "276868_3522",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 52,
+    "ProductName": "Audéo B_66",
+    "ProductCode": "878963_4402",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 53,
+    "ProductName": "Audéo B_70",
+    "ProductCode": "606364_4964",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 54,
+    "ProductName": "Audéo B_75",
+    "ProductCode": "423021_4654",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 55,
+    "ProductName": "Audéo B_85",
+    "ProductCode": "153870_4766",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 56,
+    "ProductName": "Audéo B_88",
+    "ProductCode": "806862_2466",
+    "ProductFamily": "Audéo B"
+  },
+  {
+    "Id": 57,
+    "ProductName": "Audéo V_JS",
+    "ProductCode": "123496_1405",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 58,
+    "ProductName": "Audéo V_KL",
+    "ProductCode": "812572_0485",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 59,
+    "ProductName": "Audéo V_KK",
+    "ProductCode": "359613_0850",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 60,
+    "ProductName": "Audéo V_UI",
+    "ProductCode": "353632_4993",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 61,
+    "ProductName": "Audéo V_FO",
+    "ProductCode": "582106_1149",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 62,
+    "ProductName": "Audéo V_SA",
+    "ProductCode": "973007_2353",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 63,
+    "ProductName": "Audéo V_FF",
+    "ProductCode": "237338_5976",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 64,
+    "ProductName": "Audéo V_UI",
+    "ProductCode": "724731_8129",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 65,
+    "ProductName": "Audéo V_PM",
+    "ProductCode": "664803_2537",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 66,
+    "ProductName": "Audéo V_23",
+    "ProductCode": "314191_0483",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 67,
+    "ProductName": "Audéo V_22",
+    "ProductCode": "355198_2857",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 68,
+    "ProductName": "Audéo V_12",
+    "ProductCode": "207043_5967",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 69,
+    "ProductName": "Audéo V_OP",
+    "ProductCode": "498607_4138",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 70,
+    "ProductName": "Audéo V_PR",
+    "ProductCode": "784860_2350",
+    "ProductFamily": "Audéo V"
+  },
+  {
+    "Id": 71,
+    "ProductName": "Audéo Q_PP",
+    "ProductCode": "864155_0911",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 72,
+    "ProductName": "Audéo Q_",
+    "ProductCode": "919162_9774",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 73,
+    "ProductName": "Audéo Q_",
+    "ProductCode": "588252_2617",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 74,
+    "ProductName": "Audéo Q_",
+    "ProductCode": "817325_1912",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 75,
+    "ProductName": "Audéo Q_",
+    "ProductCode": "755086_0493",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 76,
+    "ProductName": "Audéo Q_",
+    "ProductCode": "419806_0537",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 77,
+    "ProductName": "Audéo Q_",
+    "ProductCode": "355213_9549",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 78,
+    "ProductName": "Audéo Q_KL",
+    "ProductCode": "117497_1430",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 79,
+    "ProductName": "Audéo Q_KK",
+    "ProductCode": "976408_9083",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 80,
+    "ProductName": "Audéo Q_UI",
+    "ProductCode": "718460_0059",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 81,
+    "ProductName": "Audéo Q_FO",
+    "ProductCode": "013700_6987",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 82,
+    "ProductName": "Audéo Q_SA",
+    "ProductCode": "222987_7549",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 83,
+    "ProductName": "Audéo Q_FF",
+    "ProductCode": "344481_1339",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 84,
+    "ProductName": "Audéo Q_UI",
+    "ProductCode": "823600_9570",
+    "ProductFamily": "Audéo Q"
+  },
+  {
+    "Id": 85,
+    "ProductName": "Audéo s_PM123ISAWOSNWAWUUAPONT",
+    "ProductCode": "375642_8151",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 86,
+    "ProductName": "Audéo s_23123",
+    "ProductCode": "223240_2665",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 87,
+    "ProductName": "Audéo s_22123",
+    "ProductCode": "746182_5320",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 88,
+    "ProductName": "Audéo s_12123",
+    "ProductCode": "957377_5286",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 89,
+    "ProductName": "Audéo s_OP123",
+    "ProductCode": "157052_4593",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 90,
+    "ProductName": "Audéo s_PR123",
+    "ProductCode": "689654_7723",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 91,
+    "ProductName": "Audéo s_PP123",
+    "ProductCode": "342066_3324",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 92,
+    "ProductName": "Audéo s_x123",
+    "ProductCode": "599153_4925",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 93,
+    "ProductName": "Audéo s_g123",
+    "ProductCode": "726061_1251",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 94,
+    "ProductName": "Audéo s_t123",
+    "ProductCode": "408631_3014",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 95,
+    "ProductName": "Audéo s_s123",
+    "ProductCode": "498928_0195",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 96,
+    "ProductName": "Audéo s_1s23",
+    "ProductCode": "718048_5885",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 97,
+    "ProductName": "Audéo s_12u3",
+    "ProductCode": "476945_9217",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 98,
+    "ProductName": "Audéo s_12p3",
+    "ProductCode": "958874_7080",
+    "ProductFamily": "Audéo s"
+  },
+  {
+    "Id": 99,
+    "ProductName": "Baseo Q_12a3",
+    "ProductCode": "936471_9162",
+    "ProductFamily": "Baseo Q"
+  },
+  {
+    "Id": 100,
+    "ProductName": "Baseo Q",
+    "ProductCode": "148294_1349",
+    "ProductFamily": "Baseo Q"
+  }
+]

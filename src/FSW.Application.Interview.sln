@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSW.Application.Interview.UI", "FSW.Application.Interview.UI\FSW.Application.Interview.UI.csproj", "{AA12D132-E8A4-473D-9C5E-2934947FCD6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{A007412F-3A2F-419F-AB9C-A46D49FA40F1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{9613C1E5-0995-4838-B4A0-D5336EE4AEC3}"
+	ProjectSection(SolutionItems) = preProject
+		Data\HearingInstrument.json = Data\HearingInstrument.json
+		Data\HearingInstruments.cs = Data\HearingInstruments.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mockup", "Mockup", "{2123D65D-8FC0-4E7A-8EA4-2B144132C0C7}"
+	ProjectSection(SolutionItems) = preProject
+		..\doc\gui.png = ..\doc\gui.png
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSW.Application.Interview.ViewModel", "FSW.Application.Interview.ViewModel\FSW.Application.Interview.ViewModel.csproj", "{F1A83F4E-326A-4D17-9E6B-8CB8C92F9DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSW.Application.Interview.Model", "FSW.Application.Interview.Model\FSW.Application.Interview.Model.csproj", "{88AA40E2-D1E7-4E0C-9720-D03451B6AE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA12D132-E8A4-473D-9C5E-2934947FCD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA12D132-E8A4-473D-9C5E-2934947FCD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA12D132-E8A4-473D-9C5E-2934947FCD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA12D132-E8A4-473D-9C5E-2934947FCD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A83F4E-326A-4D17-9E6B-8CB8C92F9DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A83F4E-326A-4D17-9E6B-8CB8C92F9DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A83F4E-326A-4D17-9E6B-8CB8C92F9DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A83F4E-326A-4D17-9E6B-8CB8C92F9DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AA40E2-D1E7-4E0C-9720-D03451B6AE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AA40E2-D1E7-4E0C-9720-D03451B6AE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AA40E2-D1E7-4E0C-9720-D03451B6AE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AA40E2-D1E7-4E0C-9720-D03451B6AE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9613C1E5-0995-4838-B4A0-D5336EE4AEC3} = {A007412F-3A2F-419F-AB9C-A46D49FA40F1}
+		{2123D65D-8FC0-4E7A-8EA4-2B144132C0C7} = {A007412F-3A2F-419F-AB9C-A46D49FA40F1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69345D4B-8C47-49B3-8E37-A8C396BC3D24}
+	EndGlobalSection
+EndGlobal

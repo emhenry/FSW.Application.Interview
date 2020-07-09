@@ -1,0 +1,38 @@
+﻿<Window x:Class="FSW.Application.Interview.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="200"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Content="Read Data" HorizontalAlignment="Left" Width="75" />
+        <Label Content="Product Family" HorizontalAlignment="Left" Grid.Row="1" />
+        <Label Content="Product Name" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" />
+        <Label Content="Product Data" Grid.Column="2" HorizontalAlignment="Left"  Grid.Row="1"/>
+        
+        <ListView Name="UserGrid" Grid.Row="3"  ItemsSource="{Binding Products}"  >
+            <ListView.View>
+                <GridView x:Name="grdTest">
+                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Id}"  Width="50"/>
+                    <GridViewColumn Header="ProductName" DisplayMemberBinding="{Binding ProductName}"  Width="80" />
+                    <GridViewColumn Header="ProductCode" DisplayMemberBinding="{Binding ProductCode}" Width="100" />
+                    <GridViewColumn Header="ProductFamily" DisplayMemberBinding="{Binding ProductFamily}" Width="80" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ComboBox Grid.Column="1" HorizontalAlignment="Left" Grid.Row="2" Width="120"/>
+        <Label Content="Label" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="2"/>
+        <Label Content="Label" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="2"/>
+    </Grid>
+</Window>
